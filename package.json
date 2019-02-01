@@ -1,7 +1,7 @@
 {
-  "name": "js-project-template",
+  "name": "react-slider",
   "version": "0.1.0",
-  "description": "Basic JS template",
+  "description": "React Slider",
   "main": "src/index.js",
   "author": "Anatoli Huseu (avg.tolik@gmail.com)",
   "license": "MIT",
