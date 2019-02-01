@@ -3,7 +3,12 @@
     "jest": true,
     "browser": true
   },
-  "extends": "standard",
+  "extends": [
+    "plugin:react/recommended",
+    "standard",
+    "standard-react",
+    "prettier"
+  ],
   "rules": {
     "comma-dangle": [2, "always-multiline"]
   }
