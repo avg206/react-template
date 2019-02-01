@@ -1,6 +1,24 @@
 # React Slider
 
-## Get started ##
+## Get started
+
+### Start dev server
+
+```bash
+npm start
+```
+
+### Start storybook
+
+```bash
+npm run storybook
+```
+
+### Build code
+
+```bash
+npm run build
+```
 
 ### Install all dependencies
 
